@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganeshprajapatm5
+- 👋 Hi, I’m @ganeshparjaptm5@gmail.com
 - 👀 I’m interested in web programing
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on web progers
